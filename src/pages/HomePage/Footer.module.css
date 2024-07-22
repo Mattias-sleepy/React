@@ -1,0 +1,29 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+    background-color: #D9D9D9;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.buy {
+    font-size: 20px;
+}
+
+.sell {
+    font-size: 20px;
+}
+
+.support {
+    font-size: 20px;
+}
+
+.community {
+    font-size: 20px;
+}
+
+.stay_connected {
+    height: 30px;
+    font-size: 20px;
+}
