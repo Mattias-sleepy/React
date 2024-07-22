@@ -1,0 +1,128 @@
+.red_box {
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
+
+nav {
+    display: flex;
+    padding: 1% 1%;
+    justify-content: space-between;
+
+
+}
+
+.searchbar {
+    width: 500px;
+    max-width: 700px;
+    height: 40px;
+    margin-right: 20px;
+
+
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 60px;
+    padding: 1px 10px;
+}
+
+.searchbar input {
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 24px 20px;
+    font-size: 20px;
+    color: #858585;
+}
+
+.searchbar button img {
+    width: 20px;
+    height: 20px;
+}
+
+.searchbutton {
+
+    border: 0;
+    border-radius: 60px;
+    width: 70px;
+    height: 30px;
+    background: #2d81ff;
+
+}
+
+.top_info {
+
+
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    height: 40px;
+    background: #ffffff;
+
+}
+
+.language_selection {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.swedishflag img {
+    height: 40px;
+    width: 50px;
+    margin-right: 10px;
+}
+
+.language_text {
+    display: flex;
+    flex-direction: row;
+}
+
+.currency {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.downarrow1 {
+    align-self: flex-end;
+}
+
+.downarrow1 img {
+    height: 10px;
+    width: 10px;
+    margin-bottom: 3px;
+
+
+}
+
+.login {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.loginlink a {
+    text-decoration: none;
+    color: #000;
+}
+
+.login img {
+    height: 30px;
+}
+
+.shoppingcart img {
+
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+
+
+}

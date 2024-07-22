@@ -1,0 +1,96 @@
+ /*----Shoppingcart page----*/
+ .horizontal_line {
+     height: 1px;
+     background-color: #000;
+
+ }
+
+ .shopping_title {
+     height: 200px;
+     border: solid;
+     border-width: 2px;
+     border-color: white;
+ }
+
+ .shopping_text {
+     display: block;
+     margin-top: 5px;
+     font-size: 28px;
+ }
+
+ .middle_heading {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     border: solid;
+     border-width: 2px;
+     border-color: white;
+
+ }
+
+ .middle_text {
+     display: block;
+     font-size: 26px;
+ }
+
+ .your_items_text {
+     font-size: 18px
+ }
+
+ .button_options {
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: center;
+     gap: 20px;
+     border: solid;
+     border-width: 2px;
+     border-color: white;
+ }
+
+ .start_shopping {
+     display: flex;
+     height: 45px;
+     width: 280px;
+     justify-content: center;
+     align-items: center;
+     border: solid;
+     border-width: 2px;
+     border-radius: 60px;
+     border-color: #2D81FF;
+ }
+
+ .start_shopping_text {
+
+
+     font-size: 24px;
+
+ }
+
+ .start_shopping_text a {
+     text-decoration: none;
+     color: #2D81FF;
+ }
+
+ .signing_in {
+     display: flex;
+     height: 45px;
+     width: 280px;
+     justify-content: center;
+     align-items: center;
+     border: solid;
+     border-width: 2px;
+     border-radius: 60px;
+     border-color: #2D81FF;
+     background-color: #2D81FF;
+ }
+
+ .signing_in_text {
+     font-size: 24px;
+
+ }
+
+ .signing_in_text a {
+     text-decoration: none;
+     color: #ffffff;
+ }
