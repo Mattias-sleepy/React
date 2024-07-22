@@ -6,6 +6,7 @@ import WhiteDownArrow from "./white_down_arrow.png"
 import { Header } from "../../components/Header"
 import { Link } from "react-router-dom"
 import { Category } from "./Category"
+import { Footer } from "./Footer"
 export function HomePage() {
 
     return (
