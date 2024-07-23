@@ -7,6 +7,7 @@ import { Header } from "../../components/Header"
 import { Link } from "react-router-dom"
 import { Category } from "./Category"
 import { Footer } from "./Footer"
+import { NavBar } from "./NavBar"
 export function HomePage() {
 
     return (
